@@ -53,13 +53,12 @@ Using a large-scale dataset of **519,409 Sephora product reviews**, we applied N
 
 Dark/Rich skin tones:
 - ~14–15% negative reviews  
-- ~67% higher dissatisfaction vs fair tones :contentReference[oaicite:1]{index=1}  
-
+- ~67% higher dissatisfaction vs fair tones 
 ---
 
 ### 2. Price perception matters
 - Worst segment: **Budget + Dry skin (12.3%)**
-- Best segment: **Premium + Combination skin (9%)** :contentReference[oaicite:2]{index=2}  
+- Best segment: **Premium + Combination skin (9%)** 
 
 Insight: dissatisfaction is driven by **expectation vs value mismatch**
 
